@@ -232,13 +232,6 @@ img {aspect-ratio: auto;
 
 @media (max-width: 580px) {
 
-    .Header {
-        justify-content: center;
-    }
-
-    .Header-h1 {
-        width: 20%;
-    }
 
     .Section {
         padding: 10px;
