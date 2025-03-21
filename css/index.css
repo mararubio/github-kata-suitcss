@@ -54,6 +54,7 @@
 :root {
     --f-s: 0.875em;
     --c-primary: black;
+    --l-spacing: 0.5px;
 
 }
 
@@ -125,7 +126,7 @@ img {aspect-ratio: auto;
     /* background-color: lightsalmon; */
     margin-bottom: 3.125rem;
     font-size: 1rem;
-    letter-spacing: 0.5px;
+    letter-spacing: var(--l-spacing);
     width: 43.75rem;
     margin-bottom: 3.125rem;
 }
@@ -187,7 +188,7 @@ img {aspect-ratio: auto;
 
 .Footer-copy {
     font-size:0.6rem;
-    letter-spacing: .6px;
+    letter-spacing: var(--l-spacing);
 }
 
 .Footer-ul {
