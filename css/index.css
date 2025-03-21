@@ -61,6 +61,7 @@ body {
     font-family: "Raleway", serif;
     color: var(--c-primary);
     font-weight: 600;
+    overflow-x: hidden;
 }
 
 img {aspect-ratio: auto;
