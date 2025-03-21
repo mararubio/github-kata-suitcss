@@ -133,6 +133,7 @@ img {aspect-ratio: auto;
 .Section-container {
    width: 100%;
    min-height: auto;
+    margin: auto;
    /* background-color: limegreen; */
    display: grid;
    grid-template-columns: repeat(4 , auto);
